@@ -1,0 +1,23 @@
+a{
+    text-decoration: none;
+    color: #222 !important; 
+    
+}
+
+.social {
+    position: relative;
+    margin: 0 auto;
+    padding: 0 25px;
+    right: 400%;
+    left: 40%;
+}
+
+.link-social {
+    font-size: 1.9em;
+    color: #222; 
+}
+
+a:hover, a:active {
+    background-color: #222;
+    color:white !important;
+}
