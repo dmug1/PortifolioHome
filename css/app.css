@@ -27,3 +27,26 @@ a:hover, a:active {
     color:white !important;
 }
 
+.prjlink{
+    text-shadow: aquamarine;
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: black 1px solid;
+    font-weight: bold;
+    padding: 10px;
+    margin-left: 0px;
+}
+
+.demo-img{
+    width: 25rem;
+    display: block;
+}
+
+.projecteven{
+    /**placeholder*/
+}
+
+.projectodd{
+    background-color:#F8F8F8;
+}
