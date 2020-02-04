@@ -61,3 +61,10 @@ a:hover, a:active {
     width: 35%;
 }
 
+.encap{
+    margin-left: 10%;
+    display: grid;
+    grid-gap: 5px;
+    grid-template-columns: auto auto auto;
+}
+
