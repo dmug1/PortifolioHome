@@ -38,9 +38,21 @@ a:hover, a:active {
     margin-left: 0px;
 }
 
+.imglink{
+    text-shadow: aquamarine;
+    display: inline-flex;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: black 1px solid;
+    font-weight: bold;
+    padding: 10px;
+    margin-left: 0px;
+}
+
 .demo-img{
     width: 25rem;
     display: block;
+    height: 30rem;
 }
 
 .projecteven{
@@ -68,3 +80,8 @@ a:hover, a:active {
     grid-template-columns: auto auto auto;
 }
 
+.img {
+    border-radius: 3px;
+    border-color: #222;
+    border-style: solid 10px;
+}
