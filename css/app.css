@@ -5,11 +5,16 @@ a{
 }
 
 .social {
-    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
     margin: 0 auto;
-    padding: 0 25px;
-    right: 400%;
-    left: 40%;
+    padding: 0 5px;
+    
+}
+
+.social-icon {
+    display: block;
 }
 
 .link-social {
