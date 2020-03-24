@@ -1,0 +1,95 @@
+a{
+    text-decoration: none;
+    color: #222 !important; 
+    
+}
+
+.social {
+    position: relative;
+    margin: 0 auto;
+    padding: 0 25px;
+    right: 400%;
+    left: 40%;
+}
+
+.link-social {
+    font-size: 1.9em;
+    color: #222; 
+}
+
+.selected {    
+    background-color: #222;
+    color:white !important;
+}
+
+a:hover, a:active {
+    background-color: #222;
+    color:white !important;
+}
+
+.prjlink{
+    text-shadow: aquamarine;
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: black 1px solid;
+    font-weight: bold;
+    padding: 10px;
+    margin-left: 0px;
+}
+
+.imglink{
+    text-shadow: aquamarine;
+    display: inline-flex;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: black 1px solid;
+    font-weight: bold;
+    padding: 10px;
+    margin-left: 0px;
+}
+
+.demo-img{
+    width: 10rem;    
+    height: 10rem;
+}
+
+.projecteven{
+    /**placeholder*/
+}
+
+.projectodd{
+    background-color:#F8F8F8;
+}
+
+
+
+.cform{
+    width: 60%;
+}
+
+.cinfo{
+    width: 35%;
+}
+
+.encap{    
+    padding-left: 3rem;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    /*max-height: 100%;
+    align-content: flex-start;
+    overflow: auto;*/
+}
+
+.prj-wrap {
+    height: 5px;
+    flex: 1 1 34rem
+
+}
+
+.img {
+    border-radius: 3px;
+    border-color: #222;
+    border-style: solid 10px;
+}
