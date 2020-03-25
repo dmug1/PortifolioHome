@@ -98,3 +98,23 @@ a:hover, a:active {
     border-color: #222;
     border-style: solid 10px;
 }
+
+
+/*******************************************
+        RESUME
+*******************************************/
+
+.resume-holder {
+    border-radius: 3px;
+    border: 1px #222 solid;
+    margin: 0 5rem;
+    padding: 2rem 4rem; 
+}
+
+.technologies-text{
+    font-weight: bold;
+}
+
+.text-history{
+    font-size: 0.5rem !important;
+}
