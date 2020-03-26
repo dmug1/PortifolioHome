@@ -25,6 +25,7 @@ a{
 .selected {    
     background-color: #222;
     color:white !important;
+    padding: 0 5px;
 }
 
 a:hover, a:active {
