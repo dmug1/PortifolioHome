@@ -102,8 +102,18 @@ a:hover, a:active {
     border: 1px #222 solid;
     margin: 5rem 5rem;
     padding: 2rem 4rem;
+    background-color: white;
 }
 
 .technologies-text{
     font-weight: bold;    
+}
+/*******/
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: -1;
+    margin-top: 10rem;
 }
